@@ -11,8 +11,11 @@
 #include <glm/glm.hpp>
 #include <SDL_ttf.h>
 #include <SDL_audio.h>
-#include "entities/slimey.hpp"
 #include "misc/sound.hpp"
+
+
+#include "entities/npcs/npc_factory.h"
+#include "player/weapons/weapon_factory.hpp"
 
 bool c_main::initialize()
 {
@@ -248,9 +251,7 @@ void c_main::initialize_textures()
 
 void c_main::initialize_monsters()
 {
-	c_slimey slime_1;
-	glm::vec3 slime_position = glm::vec3(34, 0, 31);
-	slime_1.initialize_monster(slime_position);
+	c_slimey * slime_1 = c_npc_factory::get_instance()->create_slimey();
 	this->slimes[0] = slime_1;
 	this->map.secret.initialize(glm::vec3(64.0f, 0.0, 64.0f));
 }

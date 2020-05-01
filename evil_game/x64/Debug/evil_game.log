@@ -1,0 +1,40 @@
+﻿  dude.cpp
+E:\github\evil_game\evil_game\src\entities\npcs\dude.hpp(5,10): fatal error C1083: Cannot open include file: 'misc/texture.hpp': No such file or directory
+  slimey.cpp
+E:\github\evil_game\evil_game\src\entities\npcs\slimey.hpp(6,10): fatal error C1083: Cannot open include file: '../misc/texture.hpp': No such file or directory
+  game.cpp
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4311: 'reinterpret_cast': pointer truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4302: 'reinterpret_cast': truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\vbovao.hpp(110,1): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+E:\github\evil_game\evil_game\src\map\map.hpp(14,10): fatal error C1083: Cannot open include file: '../entities/dude.hpp': No such file or directory
+  main.cpp
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4311: 'reinterpret_cast': pointer truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4302: 'reinterpret_cast': truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\vbovao.hpp(110,1): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+E:\github\evil_game\evil_game\src\map\map.hpp(14,10): fatal error C1083: Cannot open include file: '../entities/dude.hpp': No such file or directory
+  map.cpp
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4311: 'reinterpret_cast': pointer truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4302: 'reinterpret_cast': truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\vbovao.hpp(110,1): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+E:\github\evil_game\evil_game\src\map\map.hpp(14,10): fatal error C1083: Cannot open include file: '../entities/dude.hpp': No such file or directory
+  secrets.cpp
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4311: 'reinterpret_cast': pointer truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4302: 'reinterpret_cast': truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\vbovao.hpp(110,1): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+E:\github\evil_game\evil_game\src\map\map.hpp(14,10): fatal error C1083: Cannot open include file: '../entities/dude.hpp': No such file or directory
+  player.cpp
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4311: 'reinterpret_cast': pointer truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4302: 'reinterpret_cast': truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\vbovao.hpp(110,1): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+E:\github\evil_game\evil_game\src\map\map.hpp(14,10): fatal error C1083: Cannot open include file: '../entities/dude.hpp': No such file or directory
+  ray.cpp
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4311: 'reinterpret_cast': pointer truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4302: 'reinterpret_cast': truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\vbovao.hpp(110,1): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+E:\github\evil_game\evil_game\src\map\map.hpp(14,10): fatal error C1083: Cannot open include file: '../entities/dude.hpp': No such file or directory
+  pistol.cpp
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4311: 'reinterpret_cast': pointer truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\pixel_bmp.hpp(24,66): warning C4302: 'reinterpret_cast': truncation from 'uint8_t *' to 'uint32_t'
+E:\github\evil_game\evil_game\src\misc\vbovao.hpp(110,1): warning C4312: 'reinterpret_cast': conversion from 'uint32_t' to 'const void *' of greater size
+E:\github\evil_game\evil_game\src\map\map.hpp(14,10): fatal error C1083: Cannot open include file: '../entities/dude.hpp': No such file or directory
+  Generating Code...

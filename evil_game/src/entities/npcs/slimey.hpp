@@ -3,7 +3,7 @@
 #include <string>
 #include <glm/glm.hpp>
 #include <SDL.h>
-#include "../misc/texture.hpp"
+#include "../../misc/texture.hpp"
 
 #define MAX_SLIMES 32
 

@@ -75,6 +75,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
+    <IncludePath>E:\Development\C++\Libraries\glew-2.1.0\include;E:\Development\C++\Libraries\SDL2-2.0.12\include;E:\Development\C++\Libraries\SDL2_image-2.0.5\include;E:\Development\C++\Libraries\SDL2_mixer-2.0.4\include;E:\Development\C++\Libraries\SDL2_ttf-2.0.15\include;E:\Development\C++\Libraries\glm;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -107,6 +108,8 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>E:\Development\C++\Libraries\SDL2-2.0.12\lib\x64;E:\Development\C++\Libraries\SDL2_image-2.0.5\lib\x64;E:\Development\C++\Libraries\SDL2_mixer-2.0.4\lib\x64;E:\Development\C++\Libraries\SDL2_ttf-2.0.15\lib\x64;E:\Development\C++\Libraries\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opengl32.lib;SDL2.lib;SDL2_image.lib;SDL2_mixer.lib;SDL2_ttf.lib;glew32.lib;glu32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -142,8 +145,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="src\entities\dude.cpp" />
-    <ClCompile Include="src\entities\slimey.cpp" />
+    <ClCompile Include="src\entities\npcs\dude.cpp" />
+    <ClCompile Include="src\entities\npcs\slimey.cpp" />
     <ClCompile Include="src\game.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\map\map.cpp" />
@@ -154,13 +157,15 @@
     <ClCompile Include="src\player\weapons\pistol.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="src\entities\dude.hpp" />
-    <ClInclude Include="src\entities\npc.hpp" />
-    <ClInclude Include="src\entities\slimey.hpp" />
+    <ClInclude Include="src\entities\npcs\dude.hpp" />
+    <ClInclude Include="src\entities\npcs\npc.hpp" />
+    <ClInclude Include="src\entities\npcs\npc_factory.h" />
+    <ClInclude Include="src\entities\npcs\slimey.hpp" />
     <ClInclude Include="src\main.hpp" />
     <ClInclude Include="src\map\secrets.hpp" />
     <ClInclude Include="src\map\map.hpp" />
     <ClInclude Include="src\misc\shader.hpp" />
+    <ClInclude Include="src\misc\singleton.hpp" />
     <ClInclude Include="src\misc\sound.hpp" />
     <ClInclude Include="src\misc\texture.hpp" />
     <ClInclude Include="src\misc\pixel_bmp.hpp" />
@@ -171,6 +176,7 @@
     <ClInclude Include="src\player\ray.hpp" />
     <ClInclude Include="src\player\weapons\base_weapon.hpp" />
     <ClInclude Include="src\player\weapons\pistol.hpp" />
+    <ClInclude Include="src\player\weapons\weapon_factory.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

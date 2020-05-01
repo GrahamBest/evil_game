@@ -27,9 +27,6 @@
     <ClCompile Include="src\map\map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\entities\slimey.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\map\secrets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -42,7 +39,10 @@
     <ClCompile Include="src\misc\sound.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\entities\dude.cpp">
+    <ClCompile Include="src\entities\npcs\dude.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\entities\npcs\slimey.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -63,9 +63,6 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\player\weapons\base_weapon.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="src\entities\slimey.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="src\misc\vbovao.hpp">
@@ -92,10 +89,22 @@
     <ClInclude Include="src\misc\sound.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\entities\npc.hpp">
+    <ClInclude Include="src\entities\npcs\dude.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="src\entities\dude.hpp">
+    <ClInclude Include="src\entities\npcs\slimey.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\entities\npcs\npc.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\misc\singleton.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\entities\npcs\npc_factory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\player\weapons\weapon_factory.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

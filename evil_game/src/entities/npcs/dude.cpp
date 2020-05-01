@@ -1,7 +1,7 @@
 #include "dude.hpp"
-#include "../main.hpp"
+#include "../../main.hpp"
 #include <SDL.h>
-#include "../misc/texture_functional.hpp"
+#include "../../misc/texture_functional.hpp"
 
 c_dude::c_dude() {  }
 

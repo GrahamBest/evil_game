@@ -11,7 +11,7 @@
 #include "secrets.hpp"
 #include "../player/ray.hpp"
 #include <fstream>
-#include "../entities/dude.hpp"
+#include "../entities/npcs/dude.hpp"
 
 #define DATA_BUFFER 1024
 

@@ -1,7 +1,7 @@
 #include "slimey.hpp"
-#include "../main.hpp"
-#include "../player/ray.hpp"
-#include "../misc/texture_functional.hpp"
+#include "../../main.hpp"
+#include "../../player/ray.hpp"
+#include "../../misc/texture_functional.hpp"
 
 void c_slimey::initialize_monster(glm::vec3& position)
 {
