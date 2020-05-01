@@ -4,7 +4,8 @@ dependencies ^
 
 ## Style
 
-c_x = class
+c_x = class (use classes for more general data structures. ones that have member functions, hold advanced vectors / arrays, and require
+intense manipulation for proper functionality)
 x_t = struct (use these for basic type'd data structures, data structures consisting of ints, floats, chars, maybe another basic data structure
 can also be incorporated)
 var_name = for basic variable names
