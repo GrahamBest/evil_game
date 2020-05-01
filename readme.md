@@ -1,8 +1,8 @@
-## SDL2, SDL2-mixer, SDL2-image, SDL2-ttf, glew32, opengl32
+## Dependencies
 
-dependencies ^
+SDL2, SDL2-mixer, SDL2-image, SDL2-ttf, glew32, opengl32
 
-## Style
+## Programming Style
 
 c_x = class (use classes for more general data structures. ones that have member functions, hold advanced vectors / arrays, and require
 intense manipulation for proper functionality)
