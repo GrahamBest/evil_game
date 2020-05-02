@@ -1,11 +1,9 @@
 ../src/
 | main.cpp (int main)
 | game.hpp / game.cpp (class c_game, main window, etc.)
-|
 -------player/
 |	| player.cpp / player.hpp (handles the main player. we should have a base for entities to maximize OOP)
 |	| ray.cpp / ray.hpp (raycasting. these should be somewhere else. this class will handle raycasting)
-|	|
 |--------------weapons/
 |		| base_weapon.hpp (handles the base class / virtual functions for inherited weapons that get created)
 |		| pistol.cpp / pistol.hpp (handles basic pistol class and functionality for the pistol)
@@ -28,5 +26,4 @@
 |	|	| dude.cpp / dude.hpp (i dont know i was getting a base ent down. maybe a store?)
 |	|	| npc.hpp (base class c_npc for interactible entities)
 |	|	| npc_factory.hpp (factory class for npcs)
-|	|	|
 -----------------
