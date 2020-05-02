@@ -1,0 +1,32 @@
+../src/
+| main.cpp (int main)
+| game.hpp / game.cpp (class c_game, main window, etc.)
+|
+-------player/
+|	| player.cpp / player.hpp (handles the main player. we should have a base for entities to maximize OOP)
+|	| ray.cpp / ray.hpp (raycasting. these should be somewhere else. this class will handle raycasting)
+|	|
+|--------------weapons/
+|		| base_weapon.hpp (handles the base class / virtual functions for inherited weapons that get created)
+|		| pistol.cpp / pistol.hpp (handles basic pistol class and functionality for the pistol)
+--------misc/
+|	| pixel_bmp.hpp (handles the reading in of .bmp files. this should be grouped with something else, because it gets handled with maps)
+|	| shader.hpp (doubt we'll need this but it's a shader loader.)
+|	| shapes.hpp (definitely clean this. we'll need a separate section for rendering)
+|	| singleton.hpp (we need to fix this too)
+|	| sound.cpp / sound.hpp (move this somewhere else like inside of an engine subdirectory. this is for handling sounds in the engine)
+|	| texture.hpp (move this into an engine subdirectory. class for handling textures)
+|	| texture_functional.hpp (completely scratch this and group it into a list of static functions to be used) 
+|	| vbovao.hpp (scratch this too, it's unlikely we'll ever need it)
+--------map/
+|	| map.cpp / map.hpp (handles the map. we should have a much better structure than a bunch of functions in a single class)
+|	| secrets.cpp / secrets.hpp (we should have a base class c_secrets in a subdirectory called /secrets then we can implement a bunch of secrets in here)
+|-------entities/
+|-------|-------monsters/ (do something with this later)
+|	|	| slimey.cpp / slimey.hpp
+|-------|-------npcs/
+|	|	| dude.cpp / dude.hpp (i dont know i was getting a base ent down. maybe a store?)
+|	|	| npc.hpp (base class c_npc for interactible entities)
+|	|	| npc_factory.hpp (factory class for npcs)
+|	|	|
+-----------------
