@@ -1,0 +1,277 @@
+﻿  dude.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\entities\npcs\dude.hpp(5,10): fatal error C1083: Cannot open include file: '../misc/texture.hpp': No such file or directory
+  slimey.cpp
+  game.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C3646: 'slimes': unknown override specifier
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C2143: syntax error: missing ',' before '['
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\game.cpp(63,15): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\graha\source\repos\evil_game\evil_game\src\game.cpp(98,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\graha\source\repos\evil_game\evil_game\src\game.cpp(122,34): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\graha\source\repos\evil_game\evil_game\src\game.cpp(146,19): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\game.cpp(146,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\game.cpp(162,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\game.cpp(255,14): error C2039: 'slimes': is not a member of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(19): message : see declaration of 'c_main'
+  main.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C3646: 'slimes': unknown override specifier
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C2143: syntax error: missing ',' before '['
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2238: unexpected token(s) preceding ';'
+  map.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C3646: 'slimes': unknown override specifier
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C2143: syntax error: missing ',' before '['
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(111,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(111,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(111,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(112,83): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(112,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(112,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(114,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(114,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(114,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(114,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(115,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(115,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(120,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(120,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(120,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(121,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(121,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(121,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(123,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(123,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(123,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(123,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(124,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(124,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(128,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(128,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(128,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(129,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(129,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(129,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(130,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(130,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(130,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(130,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(131,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(131,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(131,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(131,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(135,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(135,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(135,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(135,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(136,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(136,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(136,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(136,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(137,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(137,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(137,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(137,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(138,106): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(138,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(138,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(138,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(142,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(142,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(142,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(142,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(143,95): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(143,80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(143,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(143,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(144,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(144,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(144,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(145,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(145,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(145,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(149,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(149,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(149,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(150,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(150,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(150,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(151,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(151,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(151,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(152,89): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(152,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(152,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(156,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(156,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(156,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(156,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(157,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(157,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(157,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(157,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(158,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(158,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(158,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(158,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(159,112): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(159,86): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(159,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\misc\shapes.hpp(159,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(132,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(134,10): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(208,27): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(208,24): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(212,27): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(212,24): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(216,27): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(216,24): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(220,27): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(220,24): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(224,27): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(224,24): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(228,27): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(228,24): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(238,28): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(238,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(240,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(240,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(240,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(240,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(241,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(241,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(241,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(241,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(242,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(242,54): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(242,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(242,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(246,28): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(246,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(248,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(248,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(248,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(248,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(249,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(249,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(249,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(249,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(250,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(250,54): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(250,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(250,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(254,28): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(254,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(256,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(256,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(256,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(256,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(257,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(257,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(257,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(257,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(258,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(258,54): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(258,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(258,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(262,28): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(262,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(264,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(264,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(264,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(264,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(265,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(265,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(265,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(265,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(266,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(266,54): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(266,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(266,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(270,28): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(270,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(272,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(272,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(272,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(272,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(273,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(273,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(273,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(273,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(274,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(274,54): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(274,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(274,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(278,28): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(278,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(280,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(280,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(280,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(280,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(281,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(281,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(281,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(281,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(282,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(282,54): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(282,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(282,25): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(321,68): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(321,57): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(321,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(321,22): warning C4244: 'argument': conversion from 'int32_t' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(326,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(326,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(327,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\graha\source\repos\evil_game\evil_game\src\map\map.cpp(327,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  secrets.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C3646: 'slimes': unknown override specifier
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C2143: syntax error: missing ',' before '['
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2238: unexpected token(s) preceding ';'
+  player.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C3646: 'slimes': unknown override specifier
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C2143: syntax error: missing ',' before '['
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\player.cpp(40,104): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\player.cpp(41,104): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\player.cpp(51,104): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\player.cpp(52,104): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ray.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C3646: 'slimes': unknown override specifier
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C2143: syntax error: missing ',' before '['
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\ray.cpp(71,12): error C2039: 'slimes': is not a member of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(19): message : see declaration of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\ray.cpp(72,1): error C2039: 'slimes': is not a member of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(19): message : see declaration of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\ray.cpp(74,16): error C2039: 'slimes': is not a member of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(19): message : see declaration of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\player\ray.cpp(77,33): error C2039: 'slimes': is not a member of 'c_main'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(19): message : see declaration of 'c_main'
+  pistol.cpp
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C3646: 'slimes': unknown override specifier
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,17): error C2143: syntax error: missing ',' before '['
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2143: syntax error: missing ')' before ';'
+C:\Users\graha\source\repos\evil_game\evil_game\src\main.hpp(39,29): error C2238: unexpected token(s) preceding ';'
+  Generating Code...

@@ -26,7 +26,8 @@ glm::vec3 c_ray::cast(glm::vec3& from, float angle, bool draw)
                 main_ptr->map.map[static_cast<std::int32_t>(this->point_b.x)][static_cast<std::int32_t>(this->point_b.z)] == W3 ||
                 main_ptr->map.map[static_cast<std::int32_t>(this->point_b.x)][static_cast<std::int32_t>(this->point_b.z)] == W4 ||
                 main_ptr->map.map[static_cast<std::int32_t>(this->point_b.x)][static_cast<std::int32_t>(this->point_b.z)] == W5)
-            {did_hit = true;
+            {
+                did_hit = true;
 
                 /* TEST DRAW */
                 if (draw)
