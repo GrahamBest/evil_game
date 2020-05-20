@@ -14,3 +14,4 @@ any sort of recommendations to optimize certain things are always fine to discus
 any sort of fatal errors should be prefixed with "FATAL ERROR !!!!" then the message you want to put inside of that error
 never use any namespaces for neatness
 standard library is always welcome to be used if desired.
+braces are newlined
